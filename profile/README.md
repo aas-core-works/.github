@@ -18,6 +18,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
     * [aas-core3.0rc02-csharp]
     * [aas-core3.0rc02-python]
     * [aas-core3.0rc02-typescript]
+* Package libraries
+  * [aas-package3-csharp]
 * React editor
   * [aas-core3.0rc02-react-editor]
 * Test data
@@ -35,6 +37,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core3.0-csharp]: https://github.com/aas-core-works/aas-core3.0-csharp
 [aas-core3.0-python]: https://github.com/aas-core-works/aas-core3.0-python
 [aas-core3.0-typescript]: https://github.com/aas-core-works/aas-core3.0-typescript
+
+[aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
 [aas-core3.0rc02-react-editor]: https://github.com/aas-core-works/aas-core3.0rc02-react-editor
 
