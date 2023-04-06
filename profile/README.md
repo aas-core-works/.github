@@ -22,6 +22,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
   * [aas-package3-csharp]
 * React editor
   * [aas-core3.0rc02-react-editor]
+* Command-line Toolkit
+  * [aas-core3.0-cli-swiss-knife]
 * Test data
   * [aas-core3.0rc02-testgen]
   * [aas-core3.0-testgen]
@@ -41,6 +43,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
 [aas-core3.0rc02-react-editor]: https://github.com/aas-core-works/aas-core3.0rc02-react-editor
+
+[aas-core3.0-cli-swiss-knife]: https://github.com/aas-core-works/aas-core3.0-cli-swiss-knife
 
 [aas-core3.0rc02-testgen]: https://github.com/aas-core-works/aas-core3.0rc02-testgen
 [aas-core3.0-testgen]: https://github.com/aas-core-works/aas-core3.0-testgen
@@ -84,6 +88,17 @@ The SDKs for different versions of AAS meta-model are available at:
   * [aas-core3.0rc02-python]
   * [aas-core3.0rc02-typescript]
 
+## Building Block: Tools
+
+We generate a GUI editor and a command-line toolkit to facilitate work with the static AAS data.
+The command-line toolkit should help you get "80%" of the work done, while you finish the remaining "20%" using the GUI editor.
+
+The tools aim for correctness, robustness and simplicity rather than feature-richness.
+
+The GUI editor is available here: [aas-core3.0rc02-react-editor].
+
+The command-line toolkit is available at: [aas-core3.0-cli-swiss-knife].
+
 ## Building Block: Test Data
 
 We generate a large set of test cases based on the formalized meta-models.
@@ -91,7 +106,7 @@ We generate a large set of test cases based on the formalized meta-models.
 We use the test data internally, mainly to test our tools and SDKs.
 However, it is also provided to the wider community so that other people can easily test their platforms, editors, downstream libraries *etc.*
 
-The test data for different versions of AAS meta-model are available at:
+The test data for different versions of AAS meta-model are available here:
 
 * [aas-core3.0rc02-testgen]
 * [aas-core3.0-testgen]
