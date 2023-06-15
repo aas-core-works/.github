@@ -27,7 +27,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * Test data
   * [aas-core3.0rc02-testgen]
   * [aas-core3.0-testgen]
-* [Contributing Institutions]
+* [Contributing Institutions](#contributing-institutions)
 
 [aas-core-meta]: https://github.com/aas-core-works/aas-core-meta
 [Meta-models rendered as HTML]: https://aas-core-works.github.io/aas-core-meta/
