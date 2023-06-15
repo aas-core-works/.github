@@ -27,6 +27,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * Test data
   * [aas-core3.0rc02-testgen]
   * [aas-core3.0-testgen]
+* [Contributing Institutions]
 
 [aas-core-meta]: https://github.com/aas-core-works/aas-core-meta
 [Meta-models rendered as HTML]: https://aas-core-works.github.io/aas-core-meta/
@@ -110,3 +111,19 @@ The test data for different versions of AAS meta-model are available here:
 
 * [aas-core3.0rc02-testgen]
 * [aas-core3.0-testgen]
+
+## Contributing Institutions
+
+All this work has been supported either directly, with contributions in ideas, text or code, or indirectly, *i.e.*, financially, through the following institutions:
+
+[<img alt="ZHAW" src="https://github.com/aas-core-works/.github/assets/5072771/76d675a5-c6a7-43e7-b6ed-ca304238498d" width=100 />](https://www.zhaw.ch/en/engineering/institutes-centres/ims/)&nbsp;
+[Zurich University of Applied Sciences - Institute of Mechatronic Systems (IMS)](https://www.zhaw.ch/en/engineering/institutes-centres/ims/)<br/><br/>
+
+[<img alt="TU Dresden" src="https://github.com/aas-core-works/.github/assets/5072771/e2cfbb3f-581c-4b98-a0ea-81c617811c67" width=100 />](https://tu-dresden.de/ing/informatik/ai/professur-fuer-prozesskommunikation/)&nbsp;
+[TU Dresden - Chair of Industrial Communications](https://tu-dresden.de/ing/informatik/ai/professur-fuer-prozesskommunikation/)<br/><br/>
+
+[<img alt="RWTH Aachen" src="https://github.com/aas-core-works/.github/assets/5072771/4148dc68-f0c7-4df2-b495-e0bae0833ad1" width=100 />](https://www.iat.rwth-aachen.de/cms/~eety/iat/?lidx=1)&nbsp;
+[RWTH Aachen - Chair of Information and Automation Systems for Process and Material Technology](https://www.iat.rwth-aachen.de/cms/~eety/iat/?lidx=1)<br/><br/>
+
+[<img alt="IDTA" src="https://github.com/aas-core-works/.github/assets/5072771/bce7288d-3bac-40cc-aa05-c6136666fc3b" width=100/>](https://industrialdigitaltwin.org/)&nbsp;
+[Industrial Digital Twin Association](https://industrialdigitaltwin.org/)
