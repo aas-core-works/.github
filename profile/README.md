@@ -15,7 +15,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
     * [aas-core3.0-golang]
     * [aas-core3.0-python]
     * [aas-core3.0-typescript]
-    * [aas-core-3.0-CPP]
+    * [aas-core-3.0-cpp]
   * V3RC02
     * [aas-core3.0rc02-csharp]
     * [aas-core3.0rc02-python]
@@ -43,7 +43,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core3.0-golang]: https://github.com/aas-core-works/aas-core3.0-golang
 [aas-core3.0-python]: https://github.com/aas-core-works/aas-core3.0-python
 [aas-core3.0-typescript]: https://github.com/aas-core-works/aas-core3.0-typescript
-[aas-core-3.0-CPP]: https://github.com/aas-core-works/aas-core3.0-cpp
+[aas-core-3.0-cpp]: https://github.com/aas-core-works/aas-core3.0-cpp
 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
