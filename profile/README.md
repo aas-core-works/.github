@@ -89,7 +89,7 @@ The SDKs for different versions of AAS meta-model are available at:
   * [aas-core3.0-golang]
   * [aas-core3.0-python]
   * [aas-core3.0-typescript]
-  * [aas-core-3.0-CPP]
+  * [aas-core-3.0-cpp]
 * V3RC02
   * [aas-core3.0rc02-csharp]
   * [aas-core3.0rc02-python]
