@@ -118,7 +118,7 @@ The test data for different versions of AAS meta-model are available here:
 * [aas-core3.0rc02-testgen]
 * [aas-core3.0-testgen]
 
-## Contributing Institutions
+## Contributing Organizations
 
 All this work has been supported either directly, with contributions in ideas, text or code, or indirectly, *i.e.*, financially, through the following institutions:
 
