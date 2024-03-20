@@ -133,3 +133,6 @@ All this work has been supported either directly, with contributions in ideas, t
 
 [<img alt="IDTA" src="https://github.com/aas-core-works/.github/assets/5072771/bce7288d-3bac-40cc-aa05-c6136666fc3b" width=100/>](https://industrialdigitaltwin.org/)&nbsp;
 [Industrial Digital Twin Association](https://industrialdigitaltwin.org/)
+
+[<img alt="conplement AG" src="https://github.com/aas-core-works/.github/assets/5072771/b1dab2b1-c96a-42ff-94e4-b0cb669001fd" width=100/>](https://www.conplement.de/twinsphere)&nbsp;
+[conplement AG](https://www.conplement.de/twinsphere)
