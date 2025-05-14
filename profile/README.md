@@ -9,18 +9,23 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * [aas-core-meta]: formalized meta-models
   * [Meta-models rendered as HTML] 
 * [aas-core-codegen]: tool and library to generate code, schemas, *etc.*
+* Schemas and definitions
+  * [aas-core-protobuf]
 * SDKs
   * V3
     * [aas-core3.0-csharp]
     * [aas-core3.0-golang]
     * [aas-core3.0-python]
+    * [aas-core3.0-micropython]
     * [aas-core3.0-typescript]
-    * [aas-core-3.0-cpp]
-    * [aas-core-3.0-java]
+    * [aas-core3.0-cpp]
+    * [aas-core3.0-java]
   * V3RC02
     * [aas-core3.0rc02-csharp]
     * [aas-core3.0rc02-python]
     * [aas-core3.0rc02-typescript]
+* SDK extensions
+  * [aas-core3.0-python-protobuf]
 * Package libraries
   * [aas-package3-csharp]
 * React editor
@@ -36,6 +41,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [Meta-models rendered as HTML]: https://aas-core-works.github.io/aas-core-meta/
 [aas-core-codegen]: https://github.com/aas-core-works/aas-core-codegen
 
+[aas-core-protobuf]: https://github.com/aas-core-works/aas-core-protobuf
+
 [aas-core3.0rc02-csharp]: https://github.com/aas-core-works/aas-core3.0rc02-csharp
 [aas-core3.0rc02-python]: https://github.com/aas-core-works/aas-core3.0rc02-python
 [aas-core3.0rc02-typescript]: https://github.com/aas-core-works/aas-core3.0rc02-typescript
@@ -43,9 +50,13 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core3.0-csharp]: https://github.com/aas-core-works/aas-core3.0-csharp
 [aas-core3.0-golang]: https://github.com/aas-core-works/aas-core3.0-golang
 [aas-core3.0-python]: https://github.com/aas-core-works/aas-core3.0-python
+[aas-core3.0-micropython]: https://github.com/aas-core-works/aas-core3.0-micropython
+
 [aas-core3.0-typescript]: https://github.com/aas-core-works/aas-core3.0-typescript
-[aas-core-3.0-cpp]: https://github.com/aas-core-works/aas-core3.0-cpp
-[aas-core-3.0-java]: https://github.com/aas-core-works/aas-core3.0-java
+[aas-core3.0-cpp]: https://github.com/aas-core-works/aas-core3.0-cpp
+[aas-core3.0-java]: https://github.com/aas-core-works/aas-core3.0-java
+
+[aas-core3.0-python-protobuf]: https://github.com/aas-core-works/aas-core3.0-python-protobuf
 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
