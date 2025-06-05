@@ -11,6 +11,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * [aas-core-codegen]: tool and library to generate code, schemas, *etc.*
 * Schemas and definitions
   * [aas-core-protobuf]
+  * [aas-core-opcua]
 * SDKs
   * V3
     * [aas-core3.0-csharp]
@@ -42,6 +43,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core-codegen]: https://github.com/aas-core-works/aas-core-codegen
 
 [aas-core-protobuf]: https://github.com/aas-core-works/aas-core-protobuf
+[aas-core-opcua]: https://github.com/aas-core-works/aas-core-opcua
 
 [aas-core3.0rc02-csharp]: https://github.com/aas-core-works/aas-core3.0rc02-csharp
 [aas-core3.0rc02-python]: https://github.com/aas-core-works/aas-core3.0rc02-python
