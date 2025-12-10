@@ -13,6 +13,8 @@ Our main focus is on robust and correct **software building blocks**, which are 
   * [aas-core-protobuf]
   * [aas-core-opcua]
 * SDKs
+  * V3.1
+    * [aas-core3.1-python]
   * V3
     * [aas-core3.0-csharp]
     * [aas-core3.0-golang]
@@ -53,12 +55,12 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core3.0-golang]: https://github.com/aas-core-works/aas-core3.0-golang
 [aas-core3.0-python]: https://github.com/aas-core-works/aas-core3.0-python
 [aas-core3.0-micropython]: https://github.com/aas-core-works/aas-core3.0-micropython
-
 [aas-core3.0-typescript]: https://github.com/aas-core-works/aas-core3.0-typescript
 [aas-core3.0-cpp]: https://github.com/aas-core-works/aas-core3.0-cpp
 [aas-core3.0-java]: https://github.com/aas-core-works/aas-core3.0-java
-
 [aas-core3.0-python-protobuf]: https://github.com/aas-core-works/aas-core3.0-python-protobuf
+
+[aas-core3.1-python]: https://github.com/aas-core-works/aas-core3.1-python
 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
