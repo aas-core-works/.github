@@ -135,8 +135,9 @@ However, it is also provided to the wider community so that other people can eas
 
 The test data for different versions of AAS meta-model are available here:
 
-* [aas-core3.0rc02-testgen]
+* [aas-core3.1-testgen]
 * [aas-core3.0-testgen]
+* [aas-core3.0rc02-testgen]
 
 ## Contributing Organizations
 
