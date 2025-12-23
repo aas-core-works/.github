@@ -36,8 +36,9 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * Command-line Toolkit
   * [aas-core3.0-cli-swiss-knife]
 * Test data
-  * [aas-core3.0rc02-testgen]
+  * [aas-core3.1-testgen] 
   * [aas-core3.0-testgen]
+  * [aas-core3.0rc02-testgen]
 * [Contributing Institutions](#contributing-institutions)
 
 [aas-core-meta]: https://github.com/aas-core-works/aas-core-meta
@@ -68,8 +69,9 @@ Our main focus is on robust and correct **software building blocks**, which are 
 
 [aas-core3.0-cli-swiss-knife]: https://github.com/aas-core-works/aas-core3.0-cli-swiss-knife
 
-[aas-core3.0rc02-testgen]: https://github.com/aas-core-works/aas-core3.0rc02-testgen
+[aas-core3.1-testgen]: https://github.com/aas-core-works/aas-core3.1-testgen
 [aas-core3.0-testgen]: https://github.com/aas-core-works/aas-core3.0-testgen
+[aas-core3.0rc02-testgen]: https://github.com/aas-core-works/aas-core3.0rc02-testgen
 
 ## Building Block: Formalized Meta-models
 
