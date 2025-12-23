@@ -103,13 +103,15 @@ Our goal is to provide well-tested, correct and robust SDKs which are easy to in
 
 The SDKs for different versions of AAS meta-model are available at:
 
+* V3.1
+  * [aas-core3.1-python]
 * V3
   * [aas-core3.0-csharp]
   * [aas-core3.0-golang]
   * [aas-core3.0-python]
   * [aas-core3.0-typescript]
-  * [aas-core-3.0-cpp]
-  * [aas-core-3.0-java]
+  * [aas-core3.0-cpp]
+  * [aas-core3.0-java]
 * V3RC02
   * [aas-core3.0rc02-csharp]
   * [aas-core3.0rc02-python]
