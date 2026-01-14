@@ -14,7 +14,9 @@ Our main focus is on robust and correct **software building blocks**, which are 
   * [aas-core-opcua]
 * SDKs
   * V3.1
+    * [aas-core3.1-csharp]  
     * [aas-core3.1-python]
+    * [aas-core3.1-typescript]
   * V3
     * [aas-core3.0-csharp]
     * [aas-core3.0-golang]
@@ -61,7 +63,9 @@ Our main focus is on robust and correct **software building blocks**, which are 
 [aas-core3.0-java]: https://github.com/aas-core-works/aas-core3.0-java
 [aas-core3.0-python-protobuf]: https://github.com/aas-core-works/aas-core3.0-python-protobuf
 
+[aas-core3.1-csharp]: https://github.com/aas-core-works/aas-core3.1-csharp
 [aas-core3.1-python]: https://github.com/aas-core-works/aas-core3.1-python
+[aas-core3.1-typescript]: https://github.com/aas-core-works/aas-core3.1-typescript
 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 
@@ -104,7 +108,9 @@ Our goal is to provide well-tested, correct and robust SDKs which are easy to in
 The SDKs for different versions of AAS meta-model are available at:
 
 * V3.1
+  * [aas-core3.1-csharp]
   * [aas-core3.1-python]
+  * [aas-core3.1-typescript]
 * V3
   * [aas-core3.0-csharp]
   * [aas-core3.0-golang]
