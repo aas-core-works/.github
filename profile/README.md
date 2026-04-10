@@ -173,3 +173,5 @@ All this work has been supported either directly, with contributions in ideas, t
 
 [<img alt="conplement AG" src="https://github.com/aas-core-works/.github/assets/5072771/276bfe63-3597-4d3f-914b-24d9f58dae9f" width=100/>](https://www.conplement.de/digital-twin)&nbsp;
 [conplement AG](https://www.conplement.de/digital-twin)
+
+[<img alt="Fraunhofer IESE" src="https://www.iese.fraunhofer.de/content/dam/iese/iese.svg" width=100 />](https://www.iese.fraunhofer.de/)&nbsp;[Fraunhofer IESE](https://www.iese.fraunhofer.de/)
