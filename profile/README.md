@@ -36,6 +36,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 * Package libraries
   * [aas-package3-csharp]
   * [aas-package3-golang]
+  * [aas-package3-typescript]
 * React editor
   * [aas-core3.0rc02-react-editor]
 * Command-line Toolkit
@@ -74,6 +75,7 @@ Our main focus is on robust and correct **software building blocks**, which are 
 
 [aas-package3-csharp]: https://github.com/aas-core-works/aas-package3-csharp
 [aas-package3-golang]: https://github.com/aas-core-works/aas-package3-golang
+[aas-package3-typescript]: https://github.com/aas-core-works/aas-package3-typescript
 
 [aas-core3.0rc02-react-editor]: https://github.com/aas-core-works/aas-core3.0rc02-react-editor
 
