@@ -151,6 +151,10 @@ The test data for different versions of AAS meta-model are available here:
 
 * [aas-core-testdatagen]
 
+## Steps for New AAS Meta-model Versions
+
+Please see [HOWTO_NEW_AAS_META_MODEL_VERSION.md](HOWTO_NEW_AAS_META_MODEL_VERSION.md) for steps which need to be taken when a new AAS meta-model version is released.
+
 ## Contributing Organizations
 
 All this work has been supported either directly, with contributions in ideas, text or code, or indirectly, *i.e.*, financially, through the following institutions:
